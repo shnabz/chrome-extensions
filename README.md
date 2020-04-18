@@ -1,9 +1,7 @@
 # Chrome Extensions
 
-Steps to install:
-
 <h4>Whitelist Extension</h4>
-Run the included registry patch, this will whitelist the extension because we aren't using the Chrome Store.
+Run the included registry patch, this will whitelist the extension because we aren't using the Chrome Store.<br>
 
 
 <h4>Install Extension</h4>
