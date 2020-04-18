@@ -5,8 +5,8 @@ Steps to install:
 First we need to install the included registry patch, this will whitelist the extension because we aren't using the Chrome Store.
 
 Then we can install the extension following the steps below:<br>
-• Open Chrome and visit the <a href="chrome://extensions">extensions</a> page <br>
-• Toggle the developer mode switch <br>
-• Drag the .crx file into the extensions list <br>
-• Toggle the developer mode switch <br>
+• Open Chrome and visit the following URL: chrome://extensions <br>
+• Toggle the developer mode switch in the top right corner <br>
+• Drag the .crx file onto the extensions page to install <br>
+• Toggle the developer mode switch again to leave developer mode<br>
 • Restart Chrome <br>
