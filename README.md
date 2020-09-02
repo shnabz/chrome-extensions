@@ -1,5 +1,9 @@
 # Chrome Extensions
 
+#### Download
+• Press the green download code button on this page <br>
+• Choose `Download Zip`
+
 #### Whitelist Extension
 Run the included registry patch, this will whitelist the extension, this is required because we aren't using the official Chrome Store.<br>
 
