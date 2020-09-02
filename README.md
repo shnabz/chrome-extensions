@@ -11,7 +11,7 @@ Run the included registry patch file `Whitelist_eBay Ad Killer.reg`, whitelistin
 
 
 #### Install Extension
-• Open Chrome and visit the following URL:
+• Open Chrome and type the following in the address bar:
 > chrome://extensions
 
 • Toggle the developer mode switch in the top right corner <br>
