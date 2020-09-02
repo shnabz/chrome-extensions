@@ -2,7 +2,7 @@
 
 #### Download
 • Press the green download code button on this page <br>
-• Choose `Download ZIP`
+• Choose `Download ZIP` <br>
 • Extract the files and navigate to the `eBay_ad_killer` folder
 
 
