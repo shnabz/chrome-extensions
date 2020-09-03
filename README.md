@@ -7,7 +7,7 @@
 
 
 #### Whitelist Extension
-Run the included registry patch file `Whitelist_eBay Ad Killer.reg`, whitelisting is required because we aren't using the official Chrome Store.<br>
+Run the included registry patch file `whitelist.reg`, whitelisting is required because we aren't using the official Chrome Store.<br>
 
 
 #### Install Extension
